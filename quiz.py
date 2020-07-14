@@ -22,7 +22,7 @@ choice=int(input("Your answer: "))
 if choice==4:
     score+=1
     print("Correct")
-
+else:
     print("Incorrect. The correct answer is IBM")
 
 print("\nWhich of the following is not a web browser")
