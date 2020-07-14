@@ -12,7 +12,7 @@ def convertCurrency():
 
 
 #default window size
-HEIGHT = 400
+HEIGHT = 40
 WIDTH = 600
 
 #init the tkinter
